@@ -1,3 +1,3 @@
 # chrominion
 
-a web server (aka minion) based on chromium source tree. 
+a web server based on chromium source tree. 
